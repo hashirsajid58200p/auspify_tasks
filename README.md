@@ -12,7 +12,7 @@ A portfolio of four production-grade, enterprise-scale full-stack web applicatio
 
 > 🎬 **Interactive Video Walkthrough**: [Watch the full system demo & walkthrough on YouTube](https://youtu.be/GSONik1QADQ?si=qM3gDQelQtST0J2q) to explore live interactions, features, authentication flows, and database mutations without running local servers.
 >
-> 📄 **Evaluation & Setup Guide**: A complete, printable execution guide is provided in [`Setup.pdf`](Setup.pdf) at the root of the repository.
+> 📄 **Evaluation & Setup Guide**: A complete, printable execution guide is provided in [`GUIDE.pdf`](GUIDE.pdf) at the root of the repository.
 
 ---
 
