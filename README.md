@@ -8,6 +8,11 @@ A portfolio of four production-grade, enterprise-scale full-stack web applicatio
 [![MongoDB](https://img.shields.io/badge/MongoDB-Atlas_&_Mongoose_9-47A248?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS_v4-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
 [![Vitest](https://img.shields.io/badge/Vitest-Unit_&_Integration-FCC72B?style=for-the-badge&logo=vitest)](https://vitest.dev/)
+[![YouTube Video](https://img.shields.io/badge/YouTube-Video_Walkthrough-FF0000?style=for-the-badge&logo=youtube)](https://youtu.be/GSONik1QADQ?si=qM3gDQelQtST0J2q)
+
+> 🎬 **Interactive Video Walkthrough**: [Watch the full system demo & walkthrough on YouTube](https://youtu.be/GSONik1QADQ?si=qM3gDQelQtST0J2q) to explore live interactions, features, authentication flows, and database mutations without running local servers.
+>
+> 📄 **Evaluation & Setup Guide**: A complete, printable execution guide is provided in [`Setup.pdf`](Setup.pdf) at the root of the repository.
 
 ---
 
