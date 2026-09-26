@@ -1,0 +1,33 @@
+# Dependencies
+node_modules/
+/.pnp
+.pnp.js
+
+# Next.js build output
+.next/
+out/
+build/
+dist/
+
+# Environment files (keep .env.example tracked, ignore actual secrets)
+.env*.local
+.env
+.env.production
+.env.development
+
+# Testing & Coverage
+coverage/
+test-results/
+
+# TypeScript cache
+*.tsbuildinfo
+next-env.d.ts
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Archives & Temporary files
+*.zip
+*.tar.gz
+*.log
